@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boiler-Docker
 
 el codigo del backend de encuentra dentro de la carpeta **app**
@@ -63,3 +64,6 @@ si queremos detener nuestra imagen podemos hacerlo con este comando:
 
 si queremos volver a levantar nuestra nuevamente:
 `docker-compose up -d`
+=======
+# covid_prueba
+>>>>>>> 3b67b5a1c1a8b2685260713679dcfca856e4b343
