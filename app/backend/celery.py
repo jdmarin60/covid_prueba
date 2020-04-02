@@ -10,7 +10,7 @@ PROJECT_SETTINGS = '{0}.settings'.format(PROJECT_NAME)
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', PROJECT_SETTINGS)
 
 app = Celery(PROJECT_NAME)
-# Adding a comment to test, part 2
+# Adding a comment to test, part 2, part 3
 # Using a string here means the worker don't have to serialize
 # the configuration object to child processes.
 # - namespace='CELERY' means all celery-related configuration keys
